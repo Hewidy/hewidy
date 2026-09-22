@@ -7,3 +7,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
 
 .intern-roadmap{list-style:none;margin:24px 0;padding:0;display:grid;gap:18px}.intern-roadmap li{border-left:2px solid #465635;padding-left:16px}.intern-roadmap li>span{display:block;color:var(--accent);font-size:11px;letter-spacing:1px;margin-bottom:6px}.intern-roadmap strong{font-size:16px;font-weight:500}.intern-roadmap li p{font-size:14px;margin:5px 0 0}.contact-cta{display:flex;width:fit-content;background:#17200e;color:var(--accent);margin:24px 0}.contact-cta:hover{background:#2d3e1b;transform:translateY(-2px)}
+
+.brand{display:inline-flex;align-items:center;flex-shrink:0}.brand img{display:block;width:52px;height:52px}.footer .brand img{width:48px;height:48px}
